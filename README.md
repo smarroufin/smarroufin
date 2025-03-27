@@ -1,11 +1,11 @@
 # Hi, I'm Sylvain 👋
 
-### Full Stack JS Developer
+### Full Stack JavaScript Developer
 
 - 🍼 Raised by [NuxtLabs](https://nuxtlabs.com)
 - ❤️ In love with NuxtJS & VueJS
-- 💼 Finding my way through freelancing
-- 🖥️ More about me on [smarroufin.dev](https://smarroufin.dev)
+- 💼 Navigating the world of freelancing
+- 🖥️ Learn more about me on [smarroufin.dev](https://smarroufin.dev)
 
 ![profile views](https://komarev.com/ghpvc/?username=smarroufin&label=Profile%20views&color=0e75b6&style=flat)
 
